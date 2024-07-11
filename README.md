@@ -2,7 +2,7 @@
 
 # A  FlickView application built with React, Material-UI, and the Rapid API. This application allows users to browse and search for videos, displaying them in a user-friendly and responsive interface.
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+![YouTube](./image/Image.jpg)
 
 # Features
 * Browse and search for videos by category or keyword.
