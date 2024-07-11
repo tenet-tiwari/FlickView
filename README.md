@@ -8,5 +8,3 @@
 * Browse and search for videos by category or keyword.
 * Responsive design using Material-UI.
 * Sidebar for selecting different video categories.
-* Display videos in a grid layout with 4 videos per row.
-* Video details page to view individual video information.
