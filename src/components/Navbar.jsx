@@ -1,5 +1,5 @@
 import { Stack, Typography, Box } from "@mui/material";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 import { logo } from "../utils/constants";
 import { SearchBar } from "./";
